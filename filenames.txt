@@ -1,0 +1,5 @@
+counting.txt
+CountIn_v01.sf2
+Example_Old-Irish-Blessing_120bpm.mp3
+Example_Old-Irish-Blessing_4midi.mscz
+filenames.txt

@@ -1,0 +1,15 @@
+The Count In soundfont's samples are mapped to the following notes
+
+1 - d4
+2 - e4
+3 - f#4
+4 - g4
+5 - a4
+6 - b4
+7 - c#7
+8 - d5
+
+"One Measure" - f#5
+"Then" - g5
+"On" - a5
+
